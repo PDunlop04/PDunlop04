@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi guys, I'm in SENG 265 currently and I am making this for lab 5. I'm unsure on what to share so I'll go with the basics; I'm a 20 year old girl who's just trying to get through schooling to make a living, my favourite animal is a snow leaopard and my favourite food is a tie between burritos and butter chicken. On another note, I hope I figure out how to complete this lab successfully.
+Hi guys, 
+my name is Phoenix Dunlop, I'm in SENG 265 currently and I am making this for lab 5. I'm unsure on what to share so I'll go with the basics; I'm a 20 year old girl who's just trying to get through schooling to make a living, my favourite animal is a snow leaopard and my favourite food is a tie between burritos and butter chicken. On another note, I hope I figure out how to complete this lab successfully.
