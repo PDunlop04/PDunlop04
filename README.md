@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I would like to get into some sort of digital design line of work
 -->
 Hi there, 
-My name is Phoenix Dunlop, I am currently in my final year at Uvic studying to get my bachelors of science. I am studying Psycology and Computer Science as a dual major. 
+My name is Phoenix Dunlop, I am currently in my final year at Uvic studying to get my bachelors of science. I am studying Psychology and Computer Science as a dual major. 
